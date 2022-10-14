@@ -24,7 +24,7 @@
 }
 
 .container header {
-    background-image: url('/img/bg-p3.png');
+    background-image: url('../img/bg-p3.png');
     width: 100%;
     height: 99%;
     background-position: bottom;
